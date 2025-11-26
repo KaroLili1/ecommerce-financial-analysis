@@ -100,34 +100,34 @@ All visualizations are generated programmatically using Python (Matplotlib/Seabo
 >README.md <em>- Project overview (this file)</em>
 > ANALYSIS_INSIGHTS.md <em>- Detailed findings and recommendations</em>
 >> data <em>- Exported query results</em>
->>>revenue_trends.csv 
->>>product_category_profitability.csv
->>>product_categories.csv
->>>customer_segments.csv 
->>>product_performance.csv 
->>>geographic_analysis.csv 
+>>>revenue_trends.csv   
+>>>product_category_profitability.csv  
+>>>product_categories.csv  
+>>>customer_segments.csv   
+>>>product_performance.csv   
+>>>geographic_analysis.csv   
 >
->>images <em>- Output visualizations</em>
->>>revenue_profit_trends.png 
->>>top_category_profitability.png 
->>>customer_segmentation.png
->>>customer_distribution.png
->>>geographic_performance.png 
->>>profit_margin_trends.png
->>>revenue_contribution.png
->>>volume_margin_analysis.png
->>>quarterly_growth_analysis.png
+>>images <em>- Output visualizations</em>  
+>>>revenue_profit_trends.png   
+>>>top_category_profitability.png   
+>>>customer_segmentation.png  
+>>>customer_distribution.png  
+>>>geographic_performance.png   
+>>>profit_margin_trends.png  
+>>>revenue_contribution.png  
+>>>volume_margin_analysis.png  
+>>>quarterly_growth_analysis.png  
 >
->>notebooks <em>- Jupyter analysis notebook</em>
->>>analysis.ipynb : Data loading and exploration
->>>QoQ_growth.ipynb
+>>notebooks <em>- Jupyter analysis notebook</em>    
+>>>analysis.ipynb : Data loading and exploration    
+>>>QoQ_growth.ipynb  
 >
->> queries <em>- SQL analysis queries</em>
->>>01_revenue_trends.sql
->>>02_category_analysis.sql 
->>>03_customer_segments.sql
->>>04_product_performance.sql
->>>05_geographic_analysis.sql
+>> queries <em>- SQL analysis queries</em>  
+>>>01_revenue_trends.sql  
+>>>02_category_analysis.sql   
+>>>03_customer_segments.sql  
+>>>04_product_performance.sql  
+>>>05_geographic_analysis.sql  
 
 ---
 
@@ -240,7 +240,7 @@ ORDER BY avg_lifetime_value DESC
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 ### Technical Skills
 - Advanced SQL window functions, CTEs, and complex joins.
