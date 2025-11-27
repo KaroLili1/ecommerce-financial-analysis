@@ -288,7 +288,7 @@ I'm transitioning from 4+ years of financial operations at Cognizant Technology 
 ## Contact
 - **Email:** karolianalopez@gmail.com
 - **LinkedIn:** [linkedin.com/in/karol-liliana-lopez-analytics](https://www.linkedin.com/in/karol-liliana-lopez-analytics)
-- **GitHub:** [github.com/KaroLili1](https://github.com/KaroLili1)
+- **GitHub:** [github.com/KaroLili-analytics](https://github.com/KaroLili-analytics)
 - **Portfolio:** More projects coming soon!
 
 ---
